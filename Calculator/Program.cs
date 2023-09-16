@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         double a, b;
-        char c, again;
+        char c;
         Console.WriteLine("Введите a ");
         a = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Введите способ расчёта (+, -, *, /)");
