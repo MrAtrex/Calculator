@@ -27,6 +27,6 @@
             default:
                 Console.WriteLine("Ошибка");
                 break;
-            }
+        }
     }
 }
